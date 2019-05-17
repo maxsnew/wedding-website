@@ -6,7 +6,6 @@ body {
     /* color: black; */
     font-size: 16px;
     margin: 40px auto 0px auto;
-    width: 100%;
     /* width: 600px; */
     text-align: center;
     font-family: Helvetica;
@@ -14,12 +13,25 @@ body {
     background-color: hsl(243, 69%, 69%);
 }
 
+#index {
+    font-family: Pacifico;
+    text-align: center;
+}
+
+.content {
+    text-align: left;
+    display: inline-block;
+    width: 600px;
+    font-size: 30px;
+}
+
 h1 {
+    margin-bottom: 0;
     font-family: "Satisfy";
+    font-size: 80px;
     text-align: center;
     /* border: dotted; */
     border-bottom: dotted 2px;
-    /* margin-top: 1em; */
     /* padding-top: 1em; */
 }
 
@@ -31,6 +43,7 @@ h1 {
 }
 
 #footer {
+    font-family: monospace;
     bottom: 0;
     /* margin: 100px; */
 }
@@ -66,3 +79,16 @@ li a:hover {
     background-color: hsl(243, 69%, 50%);
 }
 
+/* ratio is 45.33 wide to 34 high */
+img#samplusmax {
+    height: 400px;
+    width: 530px;
+}
+
+img #sam+max {
+    height: 50px;
+}
+
+blockquote {
+    text-align: center;
+}
