@@ -10,15 +10,15 @@
   <body>
     <div id="header">
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="venue.html">Venue</a></li>
-        <li><a href="hotel.html">Hotel</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
+        <li><a class="button" href="/">Home</a></li>
+        <li><a class="button" href="venue.html">Venue</a></li>
+        <li><a class="button" href="hotel.html">Hotel</a></li>
+        <li><a class="button" href="schedule.html">Schedule</a></li>
         <!-- <li><a href="hone">Honeymoon</a></li> -->
       </ul>
     </div>
-    <h1>Sam + Max</h1>
-    <div id="$page$" class="content">
+    <h1><a id="headline" href="/">Sam + Max</a></h1>
+    <div $if(page)$ id="$page$"$endif$ class="content">
       $body$
     </div>
     <div id="footer">

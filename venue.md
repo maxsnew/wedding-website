@@ -1,7 +1,3 @@
----
-page: venue
----
-
 The ceremony and reception will be held at [Room
 1520](https://www.room1520.com/):
 

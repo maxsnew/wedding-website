@@ -1,10 +1,19 @@
-body li a {
+body li a.button {
     color: hsl(0, 0%, 10%);
 }
 
+a {
+    color: hsl(70, 80%, 60%);
+}
+
+a:hover {
+    color: hsl(70, 80%, 100%);
+}
+
+
 body {
     /* color: black; */
-    font-size: 16px;
+    font-size: 20px;
     margin: 40px auto 0px auto;
     /* width: 600px; */
     text-align: center;
@@ -45,7 +54,8 @@ h1 {
 #footer {
     font-family: monospace;
     bottom: 0;
-    /* margin: 100px; */
+    text-align: right;
+    margin: 100px;
 }
 
 ul {
@@ -74,9 +84,14 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li a.button:hover {
     color: hsl(0,0%,100%);
     background-color: hsl(243, 69%, 50%);
+}
+
+a#headline {
+    color: inherit;
+    text-decoration: inherit;
 }
 
 /* ratio is 45.33 wide to 34 high */
