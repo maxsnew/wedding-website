@@ -35,13 +35,18 @@ body {
 }
 
 h1 {
-    margin-bottom: 0;
-    font-family: "Satisfy";
+    margin-bottom: 10px;
+    font-family: Satisfy;
     font-size: 80px;
     text-align: center;
     /* border: dotted; */
     border-bottom: dotted 2px;
     /* padding-top: 1em; */
+}
+
+h2 {
+    font-family: Satisfy;
+    /* font-size: 30px; */
 }
 
 #header {
@@ -55,7 +60,9 @@ h1 {
     font-family: monospace;
     bottom: 0;
     text-align: right;
-    margin: 100px;
+    margin-top: 100px;
+    margin-right: 20px;
+    margin-bottom: 10px
 }
 
 ul {
@@ -66,10 +73,6 @@ ul {
     list-style-type: none;
     /* overflow: hidden; */
 }
-
-/* .active { */
-/*     background-color: hsl(243, 69%, 50%); */
-/* } */
 
 li {
     display: inline;
@@ -100,8 +103,13 @@ img#samplusmax {
     width: 530px;
 }
 
-img #sam+max {
-    height: 50px;
+.topimage {
+    text-align: center;
+}
+
+img#room1520 {
+    width: 200px;
+    float: center;
 }
 
 blockquote {

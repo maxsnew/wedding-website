@@ -7,11 +7,11 @@ page: index
 Samantha C. Gbur and Max S. New   
 Will Marry!
 
-March 28, 2020
+March 28, 2020  
 
-> Room 1520  
-> 1520 W Fulton  
-> Chicago, IL  
+Chicago, IL  
+
+#SamPlusMax
 
 [Max]: /images/max.jpg
 [Sam+Max]: /images/samplusmax.jpg
