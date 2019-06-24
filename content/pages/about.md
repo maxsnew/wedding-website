@@ -36,9 +36,9 @@ where Sam and Max now live.
 
 <div><img src ="/images/philly.jpg" title="one of many Philly trips!" class="story"></img></div>
 
-<div><img src ="/images/pisabel-wedding.jpg" title="lookin sharp" class="story"></img></div>
+<div><img src ="/images/pisabel-wedding.jpg" title="lookin' sharp" class="story"></img></div>
 
-They spend their time together cooking, travelling and finding the
+They spend their time together cooking, traveling and finding the
 best craft beer in New England.
 
 <div><img src ="/images/cubs.jpg" title="everybody (except Max) rooting for the cubbies" class="story"></img></div>
