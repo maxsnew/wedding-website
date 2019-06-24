@@ -1,5 +1,6 @@
 body li a.button {
     color: hsl(0, 0%, 10%);
+    font-family: Helvetica;
 }
 
 a {
@@ -17,18 +18,11 @@ body {
     margin: 40px auto 0px auto;
     /* width: 600px; */
     text-align: center;
-    font-family: Helvetica;
     /* background-color: #0014A8; */
     background-color: hsl(243, 69%, 69%);
 }
 
-#index {
-    font-family: Pacifico;
-    text-align: center;
-}
-
 .content {
-    text-align: left;
     display: inline-block;
     width: 600px;
     font-size: 30px;
@@ -101,6 +95,7 @@ a#headline {
 img#samplusmax {
     height: 400px;
     width: 530px;
+    border: 3px solid black; border-radius: 5px
 }
 
 .topimage {
@@ -115,3 +110,10 @@ img#room1520 {
 blockquote {
     text-align: center;
 }
+
+/* images */
+
+img.story { width: 400px; text-align: center;
+            margin: 15px; border: 3px solid black;
+            border-radius: 5px;
+          }

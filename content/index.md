@@ -1,6 +1,5 @@
 ---
 title: Sam + Max
-page: index
 ---
 <div><img src ="/images/samplusmax.jpg" id="samplusmax"></img></div>
 
