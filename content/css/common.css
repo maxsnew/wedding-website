@@ -68,11 +68,13 @@ ul {
     /* overflow: hidden; */
 }
 
-li {
+div#header li {
     display: inline;
     /* border: solid; */
     /* border-color: black; */
 }
+
+ol li { text-align: left; }
 
 li a {
     display: inline-block;

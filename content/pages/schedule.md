@@ -1,3 +1,8 @@
-The wedding, with reception to follow, will be held on March 28, 2020.
+## Saturday, March 28
 
-A more detailed schedule will appear here later.
+The ceremony will begin at 5:30pm, with reception to follow.
+
+## Sunday, March 29
+
+You are welcome to join Sam and Max for brunch at the Crowne Plaza
+Hotel restaurant “Dine” from 8 to 11am
