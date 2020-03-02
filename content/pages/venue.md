@@ -10,6 +10,5 @@ The ceremony and reception will be held at [Room
 Transportation will be available to and from the venue with service to
 the Crowne Plaza hotel.  
 
-If you are driving, there is parking
-available in a lot at Ashland Ave. and Fulton St. Street parking is
-also available.
+If you are driving, there is parking available in a lot at Ashland
+Ave. and Fulton St. parking is also available.
