@@ -7,8 +7,8 @@ The ceremony and reception will be held at [Room
 > 1520 W Fulton  
 > Chicago, IL  
 
-Transportation will be available to and from the venue with service to
-the Crowne Plaza hotel.  
+<!-- Transportation will be available to and from the venue with service to -->
+<!-- the Crowne Plaza hotel.   -->
 
 If you are driving, there is parking available in a lot at Ashland
 Ave. and Fulton St. parking is also available.

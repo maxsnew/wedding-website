@@ -6,7 +6,7 @@ title: Sam + Max
 Samantha C. Gbur and Max S. New   
 Will Marry!
 
-March 28, 2020  
+Friday, August 14, 2020  
 
 Chicago, IL  
 
